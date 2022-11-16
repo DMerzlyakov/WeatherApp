@@ -13,21 +13,12 @@
 - Предоставление пользователю информации о текущем состоянии приложения (Данные прогружаются /
   Ошибки в работе / Недостаточно прав)
 
-Первый запуск:
+**Первый запуск:**
+<div>
+ <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/FirstStart.gif" width="100" height="200" label="Первый запуск"/>
+ <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/SecondStart.gif" width="100" height="200" label="Повторные запуски"/>
+</div>
 
-<figure>
- <figure>
-     <div>
-     <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/FirstStart.gif" width="100" height="200"/>
-     <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/SecondStart.gif" width="100" height="200"/>
-  </div>
-  </figure>
- <figure>
-      <div>
-    <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/ChooseCity.gif" width="100" height="200"/>
-    </div>
-  </figure>
-</figure>
 
 **Поиск по городу:**
 <div>
