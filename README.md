@@ -20,8 +20,8 @@
 Пример 2:
 
 <div id="badges">
-  <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/errorInternet.gif"/>
-  <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/errorInternet.gif"/>
+  <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/errorInternet.gif" width="100" height="200"/>
+  <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/errorInternet.gif" width="100" height="200"/>
 </div>
 
 Ссылка на [Apk-файл](https://github.com/DMerzlyakov/WeatherApp/blob/main/WeatherApp.apk) в Github
