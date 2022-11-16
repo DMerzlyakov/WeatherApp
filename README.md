@@ -15,20 +15,15 @@
 
 **Первый запуск:**
 <div style=”margin-left:400px;”>
- <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/FirstStart.gif" width="100" height="200" label="Первый запуск"/>
- <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/SecondStart.gif" width="100" height="200" label="Повторные запуски"/>
+ <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/FirstStart.gif" width="200" height="400" label="Первый запуск"/>
+ <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/SecondStart.gif" width="200" height="400" label="Повторные запуски"/>
 </div>
 
 
-**Поиск по городу:**
+**Функционал и обработка ошибок**
 <div>
-  <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/ChooseCity.gif" width="100" height="200"/>
-</div>
-
-**Обработка ошибок**
-
-<div id="badges">
-  <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/ErrorInternet.gif" width="100" height="200"/>
+  <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/ChooseCity.gif" width="200" height="400"/>
+ <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/ErrorInternet.gif" width="100" height="200"/>
   <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/ErrorInternet2.gif" width="100" height="200"/>
   <img src=" https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/ApiError.gif" width="100" height="200"/>
 </div>
