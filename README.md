@@ -16,13 +16,17 @@
 Первый запуск:
 
 <figure>
+ <figure>
      <div>
      <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/FirstStart.gif" width="100" height="200"/>
      <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/SecondStart.gif" width="100" height="200"/>
-     </div<
+  </div>
+  </figure>
+ <figure>
       <div>
     <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/ChooseCity.gif" width="100" height="200"/>
     </div>
+  </figure>
 </figure>
 
 **Поиск по городу:**
