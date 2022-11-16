@@ -14,12 +14,13 @@
   Ошибки в работе / Недостаточно прав)
 
 Первый запуск:
-
-<div>
-  <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/FirstStart.gif" width="100" height="200"/>
-  <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/SecondStart.gif" width="100" height="200"/>
-</div>
-
+<figure>
+   <div>
+     <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/FirstStart.gif" width="100" height="200"/>
+     <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/SecondStart.gif" width="100" height="200"/>
+   </div><figcaption>Проверка
+</figcaption>
+</figure>
 Поиск по городу:
 <div>
   <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/ChooseCity.gif" width="100" height="200"/>
