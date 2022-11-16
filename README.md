@@ -17,9 +17,7 @@
 
 <figure>
    <div>
-     
      <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/FirstStart.gif" width="100" height="200"/>
-     <figcaption>Проверка</figcaption> 
      <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/SecondStart.gif" width="100" height="200"/>
      <figcaption>Проверка</figcaption>
    </div>
