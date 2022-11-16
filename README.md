@@ -15,8 +15,8 @@
 
 **Первый запуск:**
 <div style=”margin-left:400px;”>
- <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/FirstStart.gif" width="200" height="400" label="Первый запуск"/>
- <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/SecondStart.gif" width="200" height="400" label="Повторные запуски"/>
+ <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/FirstStart.gif" width="200" height="400"/>
+ <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/SecondStart.gif" width="200" height="400"/>
 </div>
 
 
@@ -25,7 +25,7 @@
   <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/ChooseCity.gif" width="200" height="400"/>
  <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/ErrorInternet.gif" width="200" height="400"/>
   <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/ErrorInternet2.gif" width="200" height="400"/>
-  <img src=" https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/ApiError.gif" width="200" height="400"/>
+  <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/ApiError.gif" width="200" height="400"/>
 </div>
 
 Ссылка на [Apk-файл](https://github.com/DMerzlyakov/WeatherApp/blob/main/WeatherApp.apk) в Github
