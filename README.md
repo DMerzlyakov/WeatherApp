@@ -14,7 +14,7 @@
   Ошибки в работе / Недостаточно прав)
 
 **Первый запуск:**
-<div style=”margin-left:20px;”>
+<div style=”margin-left:400px;”>
  <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/FirstStart.gif" width="100" height="200" label="Первый запуск"/>
  <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/SecondStart.gif" width="100" height="200" label="Повторные запуски"/>
 </div>
