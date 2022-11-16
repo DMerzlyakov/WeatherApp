@@ -30,8 +30,9 @@
 
 Ссылка на [Apk-файл](https://github.com/DMerzlyakov/WeatherApp/blob/main/WeatherApp.apk) в Github
 
-Для получения информации о погоде по API (weatherbit) - Retrofit Архитектура приложения на основе
-Clean Architecture и MVVM
+Для получения информации о погоде по API (weatherbit) - Retrofit 
+
+Архитектура приложения на основе Clean Architecture и MVVM
 
 
   
