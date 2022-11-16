@@ -21,6 +21,8 @@
    </div><figcaption>Проверка
 </figcaption>
 </figure>
+
+
 Поиск по городу:
 <div>
   <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/ChooseCity.gif" width="100" height="200"/>
