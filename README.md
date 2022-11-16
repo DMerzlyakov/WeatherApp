@@ -23,9 +23,9 @@
 **Функционал и обработка ошибок**
 <div>
   <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/ChooseCity.gif" width="200" height="400"/>
- <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/ErrorInternet.gif" width="100" height="200"/>
-  <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/ErrorInternet2.gif" width="100" height="200"/>
-  <img src=" https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/ApiError.gif" width="100" height="200"/>
+ <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/ErrorInternet.gif" width="200" height="400"/>
+  <img src="https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/ErrorInternet2.gif" width="200" height="400"/>
+  <img src=" https://github.com/DMerzlyakov/WeatherApp/blob/main/Gifs/ApiError.gif" width="200" height="400"/>
 </div>
 
 Ссылка на [Apk-файл](https://github.com/DMerzlyakov/WeatherApp/blob/main/WeatherApp.apk) в Github
